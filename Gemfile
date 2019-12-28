@@ -4,7 +4,7 @@ ruby '2.7.0'
 
 gem 'dedent'
 gem 'dotenv'
-#gem 'grape'
+gem 'grape'
 gem 'pg'
 gem 'rake'
 gem 'sass'
